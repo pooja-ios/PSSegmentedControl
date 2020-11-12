@@ -13,6 +13,7 @@
 		07C09217241269AC00E40B94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07C09215241269AC00E40B94 /* Main.storyboard */; };
 		07C09219241269BB00E40B94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 07C09218241269BB00E40B94 /* Assets.xcassets */; };
 		07C0921C241269BB00E40B94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 07C0921A241269BB00E40B94 /* LaunchScreen.storyboard */; };
+		07C0922424126A0B00E40B94 /* PSSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07C0922324126A0B00E40B94 /* PSSegmentedControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		07C09218241269BB00E40B94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		07C0921B241269BB00E40B94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		07C0921D241269BB00E40B94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		07C0922324126A0B00E40B94 /* PSSegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PSSegmentedControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				07C09218241269BB00E40B94 /* Assets.xcassets */,
 				07C0921A241269BB00E40B94 /* LaunchScreen.storyboard */,
 				07C0921D241269BB00E40B94 /* Info.plist */,
+				07C0922324126A0B00E40B94 /* PSSegmentedControl.swift */,
 			);
 			path = PSSegmentedControl;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				07C09214241269AC00E40B94 /* ViewController.swift in Sources */,
 				07C09210241269AC00E40B94 /* AppDelegate.swift in Sources */,
 				07C09212241269AC00E40B94 /* SceneDelegate.swift in Sources */,
+				07C0922424126A0B00E40B94 /* PSSegmentedControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
